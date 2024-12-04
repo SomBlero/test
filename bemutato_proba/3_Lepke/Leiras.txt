@@ -13,5 +13,4 @@ Az emelt szintű érettségi
 3. Adatbázis-kezelés
 4. Programozás
 5. Szóbeli vizsgarész a vizsgabizottság előtt
-6. Az érettsédi vizsga 80%-a sikeres volt !!git push git comit
-7. TESZT COMMIT !!
+--Ez lesz az eredeti --
