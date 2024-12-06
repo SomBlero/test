@@ -13,4 +13,4 @@ Az emelt szintű érettségi
 3. Adatbázis-kezelés
 4. Programozás
 5. Szóbeli vizsgarész a vizsgabizottság előtt
---Ez lesz az eredeti --
+--Ez lesz az eredeti -- valamint az utolsó változtatás is --
