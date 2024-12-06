@@ -14,3 +14,4 @@ Az emelt szintű érettségi
 4. Programozás
 5. Szóbeli vizsgarész a vizsgabizottság előtt
 --Ez lesz az eredeti -- valamint az utolsó változtatás is --
+6.Ez pedig majd a vége lesz
