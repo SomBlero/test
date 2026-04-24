@@ -1,0 +1,14 @@
+----------Üzleti_E-mail----------
+E-mail cím: raktarberles.info@gmail.com
+Jelszó: InfoRaktar!ABI26
+Alkalmazás Jelszó: gker cdmb qxnb iqvv
+Jwt Key: RaktarApp_2026_ABI_SecretKey_!xA92#LmQpZ
+
+----------Fiókok_Admin/User----------
+E-mail cím: ABIadmin@blero.hu
+Jelszó: AdminAdmin@123
+
+E-mail cím: ABIuser@blero.hu
+Jelszó: UserUser@123
+
+

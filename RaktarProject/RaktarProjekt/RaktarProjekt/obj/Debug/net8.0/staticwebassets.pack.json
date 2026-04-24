@@ -1,0 +1,77 @@
+{
+  "Files": [
+    {
+      "Id": "K:\\ESKÜVŐ\\2024\\Szoftverfejlesztő\\2025 tanév\\Vizsga teszt\\RaktárProject-11 másolata (3)\\Project\\RaktarProjekt\\wwwroot\\admin-script.js",
+      "PackagePath": "staticwebassets\\admin-script.js"
+    },
+    {
+      "Id": "K:\\ESKÜVŐ\\2024\\Szoftverfejlesztő\\2025 tanév\\Vizsga teszt\\RaktárProject-11 másolata (3)\\Project\\RaktarProjekt\\wwwroot\\admin-style.css",
+      "PackagePath": "staticwebassets\\admin-style.css"
+    },
+    {
+      "Id": "K:\\ESKÜVŐ\\2024\\Szoftverfejlesztő\\2025 tanév\\Vizsga teszt\\RaktárProject-11 másolata (3)\\Project\\RaktarProjekt\\wwwroot\\admin.html",
+      "PackagePath": "staticwebassets\\admin.html"
+    },
+    {
+      "Id": "K:\\ESKÜVŐ\\2024\\Szoftverfejlesztő\\2025 tanév\\Vizsga teszt\\RaktárProject-11 másolata (3)\\Project\\RaktarProjekt\\wwwroot\\asset\\script\\auth.js",
+      "PackagePath": "staticwebassets\\asset\\script\\auth.js"
+    },
+    {
+      "Id": "K:\\ESKÜVŐ\\2024\\Szoftverfejlesztő\\2025 tanév\\Vizsga teszt\\RaktárProject-11 másolata (3)\\Project\\RaktarProjekt\\wwwroot\\asset\\script\\berleseim.js",
+      "PackagePath": "staticwebassets\\asset\\script\\berleseim.js"
+    },
+    {
+      "Id": "K:\\ESKÜVŐ\\2024\\Szoftverfejlesztő\\2025 tanév\\Vizsga teszt\\RaktárProject-11 másolata (3)\\Project\\RaktarProjekt\\wwwroot\\asset\\script\\login.js",
+      "PackagePath": "staticwebassets\\asset\\script\\login.js"
+    },
+    {
+      "Id": "K:\\ESKÜVŐ\\2024\\Szoftverfejlesztő\\2025 tanév\\Vizsga teszt\\RaktárProject-11 másolata (3)\\Project\\RaktarProjekt\\wwwroot\\asset\\script\\tarolok.js",
+      "PackagePath": "staticwebassets\\asset\\script\\tarolok.js"
+    },
+    {
+      "Id": "K:\\ESKÜVŐ\\2024\\Szoftverfejlesztő\\2025 tanév\\Vizsga teszt\\RaktárProject-11 másolata (3)\\Project\\RaktarProjekt\\wwwroot\\asset\\script\\validation.js",
+      "PackagePath": "staticwebassets\\asset\\script\\validation.js"
+    },
+    {
+      "Id": "K:\\ESKÜVŐ\\2024\\Szoftverfejlesztő\\2025 tanév\\Vizsga teszt\\RaktárProject-11 másolata (3)\\Project\\RaktarProjekt\\wwwroot\\asset\\style\\style.css",
+      "PackagePath": "staticwebassets\\asset\\style\\style.css"
+    },
+    {
+      "Id": "K:\\ESKÜVŐ\\2024\\Szoftverfejlesztő\\2025 tanév\\Vizsga teszt\\RaktárProject-11 másolata (3)\\Project\\RaktarProjekt\\wwwroot\\bejelentkezes.html",
+      "PackagePath": "staticwebassets\\bejelentkezes.html"
+    },
+    {
+      "Id": "K:\\ESKÜVŐ\\2024\\Szoftverfejlesztő\\2025 tanév\\Vizsga teszt\\RaktárProject-11 másolata (3)\\Project\\RaktarProjekt\\wwwroot\\berleseim.html",
+      "PackagePath": "staticwebassets\\berleseim.html"
+    },
+    {
+      "Id": "K:\\ESKÜVŐ\\2024\\Szoftverfejlesztő\\2025 tanév\\Vizsga teszt\\RaktárProject-11 másolata (3)\\Project\\RaktarProjekt\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "K:\\ESKÜVŐ\\2024\\Szoftverfejlesztő\\2025 tanév\\Vizsga teszt\\RaktárProject-11 másolata (3)\\Project\\RaktarProjekt\\wwwroot\\tarolok.html",
+      "PackagePath": "staticwebassets\\tarolok.html"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.RaktarProjekt.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.RaktarProjekt.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.RaktarProjekt.props",
+      "PackagePath": "build\\RaktarProjekt.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.RaktarProjekt.props",
+      "PackagePath": "buildMultiTargeting\\RaktarProjekt.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.RaktarProjekt.props",
+      "PackagePath": "buildTransitive\\RaktarProjekt.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

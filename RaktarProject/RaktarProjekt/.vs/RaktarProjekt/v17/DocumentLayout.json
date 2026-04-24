@@ -1,0 +1,181 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "K:\\ESK\u00DCV\u0150\\2024\\Szoftverfejleszt\u0151\\2025 tan\u00E9v\\Vizsga teszt\\RaktarProject-23-React\\Project\\Dokumentacio\\RaktarProject-24-React\\RaktarProjekt\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{01ABCAA6-A3F9-42EC-A01E-79168AE7C9AF}|RaktarProjekt\\RaktarProjekt.csproj|k:\\esk\u00FCv\u0151\\2024\\szoftverfejleszt\u0151\\2025 tan\u00E9v\\vizsga teszt\\raktarproject-23-react\\project\\dokumentacio\\raktarproject-24-react\\raktarprojekt\\raktarprojekt\\controllers\\ugyfelcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01ABCAA6-A3F9-42EC-A01E-79168AE7C9AF}|RaktarProjekt\\RaktarProjekt.csproj|solutionrelative:raktarprojekt\\controllers\\ugyfelcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01ABCAA6-A3F9-42EC-A01E-79168AE7C9AF}|RaktarProjekt\\RaktarProjekt.csproj|k:\\esk\u00FCv\u0151\\2024\\szoftverfejleszt\u0151\\2025 tan\u00E9v\\vizsga teszt\\raktarproject-23-react\\project\\dokumentacio\\raktarproject-24-react\\raktarprojekt\\raktarprojekt\\controllers\\tarolohelyisegcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01ABCAA6-A3F9-42EC-A01E-79168AE7C9AF}|RaktarProjekt\\RaktarProjekt.csproj|solutionrelative:raktarprojekt\\controllers\\tarolohelyisegcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01ABCAA6-A3F9-42EC-A01E-79168AE7C9AF}|RaktarProjekt\\RaktarProjekt.csproj|k:\\esk\u00FCv\u0151\\2024\\szoftverfejleszt\u0151\\2025 tan\u00E9v\\vizsga teszt\\raktarproject-23-react\\project\\dokumentacio\\raktarproject-24-react\\raktarprojekt\\raktarprojekt\\controllers\\raktarcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01ABCAA6-A3F9-42EC-A01E-79168AE7C9AF}|RaktarProjekt\\RaktarProjekt.csproj|solutionrelative:raktarprojekt\\controllers\\raktarcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01ABCAA6-A3F9-42EC-A01E-79168AE7C9AF}|RaktarProjekt\\RaktarProjekt.csproj|k:\\esk\u00FCv\u0151\\2024\\szoftverfejleszt\u0151\\2025 tan\u00E9v\\vizsga teszt\\raktarproject-23-react\\project\\dokumentacio\\raktarproject-24-react\\raktarprojekt\\raktarprojekt\\controllers\\berlescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01ABCAA6-A3F9-42EC-A01E-79168AE7C9AF}|RaktarProjekt\\RaktarProjekt.csproj|solutionrelative:raktarprojekt\\controllers\\berlescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01ABCAA6-A3F9-42EC-A01E-79168AE7C9AF}|RaktarProjekt\\RaktarProjekt.csproj|k:\\esk\u00FCv\u0151\\2024\\szoftverfejleszt\u0151\\2025 tan\u00E9v\\vizsga teszt\\raktarproject-23-react\\project\\dokumentacio\\raktarproject-24-react\\raktarprojekt\\raktarprojekt\\models\\tarolohelyiseg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01ABCAA6-A3F9-42EC-A01E-79168AE7C9AF}|RaktarProjekt\\RaktarProjekt.csproj|solutionrelative:raktarprojekt\\models\\tarolohelyiseg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01ABCAA6-A3F9-42EC-A01E-79168AE7C9AF}|RaktarProjekt\\RaktarProjekt.csproj|k:\\esk\u00FCv\u0151\\2024\\szoftverfejleszt\u0151\\2025 tan\u00E9v\\vizsga teszt\\raktarproject-23-react\\project\\dokumentacio\\raktarproject-24-react\\raktarprojekt\\raktarprojekt\\models\\berles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01ABCAA6-A3F9-42EC-A01E-79168AE7C9AF}|RaktarProjekt\\RaktarProjekt.csproj|solutionrelative:raktarprojekt\\models\\berles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01ABCAA6-A3F9-42EC-A01E-79168AE7C9AF}|RaktarProjekt\\RaktarProjekt.csproj|k:\\esk\u00FCv\u0151\\2024\\szoftverfejleszt\u0151\\2025 tan\u00E9v\\vizsga teszt\\raktarproject-23-react\\project\\dokumentacio\\raktarproject-24-react\\raktarprojekt\\raktarprojekt\\models\\arkategoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01ABCAA6-A3F9-42EC-A01E-79168AE7C9AF}|RaktarProjekt\\RaktarProjekt.csproj|solutionrelative:raktarprojekt\\models\\arkategoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01ABCAA6-A3F9-42EC-A01E-79168AE7C9AF}|RaktarProjekt\\RaktarProjekt.csproj|k:\\esk\u00FCv\u0151\\2024\\szoftverfejleszt\u0151\\2025 tan\u00E9v\\vizsga teszt\\raktarproject-23-react\\project\\dokumentacio\\raktarproject-24-react\\raktarprojekt\\raktarprojekt\\service\\tokenmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01ABCAA6-A3F9-42EC-A01E-79168AE7C9AF}|RaktarProjekt\\RaktarProjekt.csproj|solutionrelative:raktarprojekt\\service\\tokenmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01ABCAA6-A3F9-42EC-A01E-79168AE7C9AF}|RaktarProjekt\\RaktarProjekt.csproj|k:\\esk\u00FCv\u0151\\2024\\szoftverfejleszt\u0151\\2025 tan\u00E9v\\vizsga teszt\\raktarproject-23-react\\project\\dokumentacio\\raktarproject-24-react\\raktarprojekt\\raktarprojekt\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{01ABCAA6-A3F9-42EC-A01E-79168AE7C9AF}|RaktarProjekt\\RaktarProjekt.csproj|solutionrelative:raktarprojekt\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01ABCAA6-A3F9-42EC-A01E-79168AE7C9AF}|RaktarProjekt\\RaktarProjekt.csproj|k:\\esk\u00FCv\u0151\\2024\\szoftverfejleszt\u0151\\2025 tan\u00E9v\\vizsga teszt\\raktarproject-23-react\\project\\dokumentacio\\raktarproject-24-react\\raktarprojekt\\raktarprojekt\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01ABCAA6-A3F9-42EC-A01E-79168AE7C9AF}|RaktarProjekt\\RaktarProjekt.csproj|solutionrelative:raktarprojekt\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 284,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UgyfelController.cs",
+              "DocumentMoniker": "K:\\ESK\u00DCV\u0150\\2024\\Szoftverfejleszt\u0151\\2025 tan\u00E9v\\Vizsga teszt\\RaktarProject-23-React\\Project\\Dokumentacio\\RaktarProject-24-React\\RaktarProjekt\\RaktarProjekt\\Controllers\\UgyfelController.cs",
+              "RelativeDocumentMoniker": "RaktarProjekt\\Controllers\\UgyfelController.cs",
+              "ToolTip": "K:\\ESK\u00DCV\u0150\\2024\\Szoftverfejleszt\u0151\\2025 tan\u00E9v\\Vizsga teszt\\RaktarProject-23-React\\Project\\Dokumentacio\\RaktarProject-24-React\\RaktarProjekt\\RaktarProjekt\\Controllers\\UgyfelController.cs",
+              "RelativeToolTip": "RaktarProjekt\\Controllers\\UgyfelController.cs",
+              "ViewState": "AgIAAM0CAAAAAAAAAAAqwNQCAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-22T11:42:02.272Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TaroloHelyisegController.cs",
+              "DocumentMoniker": "K:\\ESK\u00DCV\u0150\\2024\\Szoftverfejleszt\u0151\\2025 tan\u00E9v\\Vizsga teszt\\RaktarProject-23-React\\Project\\Dokumentacio\\RaktarProject-24-React\\RaktarProjekt\\RaktarProjekt\\Controllers\\TaroloHelyisegController.cs",
+              "RelativeDocumentMoniker": "RaktarProjekt\\Controllers\\TaroloHelyisegController.cs",
+              "ToolTip": "K:\\ESK\u00DCV\u0150\\2024\\Szoftverfejleszt\u0151\\2025 tan\u00E9v\\Vizsga teszt\\RaktarProject-23-React\\Project\\Dokumentacio\\RaktarProject-24-React\\RaktarProjekt\\RaktarProjekt\\Controllers\\TaroloHelyisegController.cs",
+              "RelativeToolTip": "RaktarProjekt\\Controllers\\TaroloHelyisegController.cs",
+              "ViewState": "AgIAAMMAAAAAAAAAAAAuwKgAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-22T11:41:46.029Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RaktarController.cs",
+              "DocumentMoniker": "K:\\ESK\u00DCV\u0150\\2024\\Szoftverfejleszt\u0151\\2025 tan\u00E9v\\Vizsga teszt\\RaktarProject-23-React\\Project\\Dokumentacio\\RaktarProject-24-React\\RaktarProjekt\\RaktarProjekt\\Controllers\\RaktarController.cs",
+              "RelativeDocumentMoniker": "RaktarProjekt\\Controllers\\RaktarController.cs",
+              "ToolTip": "K:\\ESK\u00DCV\u0150\\2024\\Szoftverfejleszt\u0151\\2025 tan\u00E9v\\Vizsga teszt\\RaktarProject-23-React\\Project\\Dokumentacio\\RaktarProject-24-React\\RaktarProjekt\\RaktarProjekt\\Controllers\\RaktarController.cs",
+              "RelativeToolTip": "RaktarProjekt\\Controllers\\RaktarController.cs",
+              "ViewState": "AgIAAG0AAAAAAAAAAAAcwBEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-22T11:41:28.491Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BerlesController.cs",
+              "DocumentMoniker": "K:\\ESK\u00DCV\u0150\\2024\\Szoftverfejleszt\u0151\\2025 tan\u00E9v\\Vizsga teszt\\RaktarProject-23-React\\Project\\Dokumentacio\\RaktarProject-24-React\\RaktarProjekt\\RaktarProjekt\\Controllers\\BerlesController.cs",
+              "RelativeDocumentMoniker": "RaktarProjekt\\Controllers\\BerlesController.cs",
+              "ToolTip": "K:\\ESK\u00DCV\u0150\\2024\\Szoftverfejleszt\u0151\\2025 tan\u00E9v\\Vizsga teszt\\RaktarProject-23-React\\Project\\Dokumentacio\\RaktarProject-24-React\\RaktarProjekt\\RaktarProjekt\\Controllers\\BerlesController.cs",
+              "RelativeToolTip": "RaktarProjekt\\Controllers\\BerlesController.cs",
+              "ViewState": "AgIAAEsCAAAAAAAAAAAmwP0BAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-22T11:38:46.021Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TaroloHelyiseg.cs",
+              "DocumentMoniker": "K:\\ESK\u00DCV\u0150\\2024\\Szoftverfejleszt\u0151\\2025 tan\u00E9v\\Vizsga teszt\\RaktarProject-23-React\\Project\\Dokumentacio\\RaktarProject-24-React\\RaktarProjekt\\RaktarProjekt\\Models\\TaroloHelyiseg.cs",
+              "RelativeDocumentMoniker": "RaktarProjekt\\Models\\TaroloHelyiseg.cs",
+              "ToolTip": "K:\\ESK\u00DCV\u0150\\2024\\Szoftverfejleszt\u0151\\2025 tan\u00E9v\\Vizsga teszt\\RaktarProject-23-React\\Project\\Dokumentacio\\RaktarProject-24-React\\RaktarProjekt\\RaktarProjekt\\Models\\TaroloHelyiseg.cs",
+              "RelativeToolTip": "RaktarProjekt\\Models\\TaroloHelyiseg.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-22T11:38:14.167Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Berles.cs",
+              "DocumentMoniker": "K:\\ESK\u00DCV\u0150\\2024\\Szoftverfejleszt\u0151\\2025 tan\u00E9v\\Vizsga teszt\\RaktarProject-23-React\\Project\\Dokumentacio\\RaktarProject-24-React\\RaktarProjekt\\RaktarProjekt\\Models\\Berles.cs",
+              "RelativeDocumentMoniker": "RaktarProjekt\\Models\\Berles.cs",
+              "ToolTip": "K:\\ESK\u00DCV\u0150\\2024\\Szoftverfejleszt\u0151\\2025 tan\u00E9v\\Vizsga teszt\\RaktarProject-23-React\\Project\\Dokumentacio\\RaktarProject-24-React\\RaktarProjekt\\RaktarProjekt\\Models\\Berles.cs",
+              "RelativeToolTip": "RaktarProjekt\\Models\\Berles.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAkwBcAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-22T11:37:56.493Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ArKategoria.cs",
+              "DocumentMoniker": "K:\\ESK\u00DCV\u0150\\2024\\Szoftverfejleszt\u0151\\2025 tan\u00E9v\\Vizsga teszt\\RaktarProject-23-React\\Project\\Dokumentacio\\RaktarProject-24-React\\RaktarProjekt\\RaktarProjekt\\Models\\ArKategoria.cs",
+              "RelativeDocumentMoniker": "RaktarProjekt\\Models\\ArKategoria.cs",
+              "ToolTip": "K:\\ESK\u00DCV\u0150\\2024\\Szoftverfejleszt\u0151\\2025 tan\u00E9v\\Vizsga teszt\\RaktarProject-23-React\\Project\\Dokumentacio\\RaktarProject-24-React\\RaktarProjekt\\RaktarProjekt\\Models\\ArKategoria.cs",
+              "RelativeToolTip": "RaktarProjekt\\Models\\ArKategoria.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBIAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-22T11:37:42.498Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TokenManager.cs",
+              "DocumentMoniker": "K:\\ESK\u00DCV\u0150\\2024\\Szoftverfejleszt\u0151\\2025 tan\u00E9v\\Vizsga teszt\\RaktarProject-23-React\\Project\\Dokumentacio\\RaktarProject-24-React\\RaktarProjekt\\RaktarProjekt\\Service\\TokenManager.cs",
+              "RelativeDocumentMoniker": "RaktarProjekt\\Service\\TokenManager.cs",
+              "ToolTip": "K:\\ESK\u00DCV\u0150\\2024\\Szoftverfejleszt\u0151\\2025 tan\u00E9v\\Vizsga teszt\\RaktarProject-23-React\\Project\\Dokumentacio\\RaktarProject-24-React\\RaktarProjekt\\RaktarProjekt\\Service\\TokenManager.cs",
+              "RelativeToolTip": "RaktarProjekt\\Service\\TokenManager.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAYwCQAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-22T11:36:44.12Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "K:\\ESK\u00DCV\u0150\\2024\\Szoftverfejleszt\u0151\\2025 tan\u00E9v\\Vizsga teszt\\RaktarProject-23-React\\Project\\Dokumentacio\\RaktarProject-24-React\\RaktarProjekt\\RaktarProjekt\\appsettings.json",
+              "RelativeDocumentMoniker": "RaktarProjekt\\appsettings.json",
+              "ToolTip": "K:\\ESK\u00DCV\u0150\\2024\\Szoftverfejleszt\u0151\\2025 tan\u00E9v\\Vizsga teszt\\RaktarProject-23-React\\Project\\Dokumentacio\\RaktarProject-24-React\\RaktarProjekt\\RaktarProjekt\\appsettings.json",
+              "RelativeToolTip": "RaktarProjekt\\appsettings.json",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-22T11:29:57.226Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "K:\\ESK\u00DCV\u0150\\2024\\Szoftverfejleszt\u0151\\2025 tan\u00E9v\\Vizsga teszt\\RaktarProject-23-React\\Project\\Dokumentacio\\RaktarProject-24-React\\RaktarProjekt\\RaktarProjekt\\Program.cs",
+              "RelativeDocumentMoniker": "RaktarProjekt\\Program.cs",
+              "ToolTip": "K:\\ESK\u00DCV\u0150\\2024\\Szoftverfejleszt\u0151\\2025 tan\u00E9v\\Vizsga teszt\\RaktarProject-23-React\\Project\\Dokumentacio\\RaktarProject-24-React\\RaktarProjekt\\RaktarProjekt\\Program.cs",
+              "RelativeToolTip": "RaktarProjekt\\Program.cs",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAAAEgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-24T09:17:36.848Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

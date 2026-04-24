@@ -1,0 +1,20 @@
+{
+  "Version": 1,
+  "Hash": "f4YGASaYvQ1dlTCQVZ7nAtyGHXd0w0w47CZ/pHKY10g=",
+  "Source": "RaktarProjekt",
+  "BasePath": "_content/RaktarProjekt",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "RaktarProjekt\\wwwroot",
+      "Source": "RaktarProjekt",
+      "ContentRoot": "K:\\ESKÜVŐ\\2024\\Szoftverfejlesztő\\2025 tanév\\Vizsga teszt\\RaktarProject-23-React\\Project\\Dokumentacio\\RaktarProject-24-React\\RaktarProjekt\\RaktarProjekt\\wwwroot\\",
+      "BasePath": "_content/RaktarProjekt",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [],
+  "Endpoints": []
+}

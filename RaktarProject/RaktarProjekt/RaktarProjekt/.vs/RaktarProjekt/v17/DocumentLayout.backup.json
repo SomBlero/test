@@ -1,0 +1,327 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Katona Andr\u00E1s\\Desktop\\RaktarProjekt\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{01ABCAA6-A3F9-42EC-A01E-79168AE7C9AF}|RaktarProjekt\\RaktarProjekt.csproj|c:\\users\\katona andr\u00E1s\\desktop\\raktarprojekt\\raktarprojekt\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01ABCAA6-A3F9-42EC-A01E-79168AE7C9AF}|RaktarProjekt\\RaktarProjekt.csproj|solutionrelative:raktarprojekt\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01ABCAA6-A3F9-42EC-A01E-79168AE7C9AF}|RaktarProjekt\\RaktarProjekt.csproj|c:\\users\\katona andr\u00E1s\\desktop\\raktarprojekt\\raktarprojekt\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{01ABCAA6-A3F9-42EC-A01E-79168AE7C9AF}|RaktarProjekt\\RaktarProjekt.csproj|solutionrelative:raktarprojekt\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01ABCAA6-A3F9-42EC-A01E-79168AE7C9AF}|RaktarProjekt\\RaktarProjekt.csproj|c:\\users\\katona andr\u00E1s\\desktop\\raktarprojekt\\raktarprojekt\\wwwroot\\script.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{01ABCAA6-A3F9-42EC-A01E-79168AE7C9AF}|RaktarProjekt\\RaktarProjekt.csproj|solutionrelative:raktarprojekt\\wwwroot\\script.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01ABCAA6-A3F9-42EC-A01E-79168AE7C9AF}|RaktarProjekt\\RaktarProjekt.csproj|c:\\users\\katona andr\u00E1s\\desktop\\raktarprojekt\\raktarprojekt\\wwwroot\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{01ABCAA6-A3F9-42EC-A01E-79168AE7C9AF}|RaktarProjekt\\RaktarProjekt.csproj|solutionrelative:raktarprojekt\\wwwroot\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01ABCAA6-A3F9-42EC-A01E-79168AE7C9AF}|RaktarProjekt\\RaktarProjekt.csproj|c:\\users\\katona andr\u00E1s\\desktop\\raktarprojekt\\raktarprojekt\\controllers\\ugyfelcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01ABCAA6-A3F9-42EC-A01E-79168AE7C9AF}|RaktarProjekt\\RaktarProjekt.csproj|solutionrelative:raktarprojekt\\controllers\\ugyfelcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01ABCAA6-A3F9-42EC-A01E-79168AE7C9AF}|RaktarProjekt\\RaktarProjekt.csproj|c:\\users\\katona andr\u00E1s\\desktop\\raktarprojekt\\raktarprojekt\\database\\raktarcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01ABCAA6-A3F9-42EC-A01E-79168AE7C9AF}|RaktarProjekt\\RaktarProjekt.csproj|solutionrelative:raktarprojekt\\database\\raktarcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01ABCAA6-A3F9-42EC-A01E-79168AE7C9AF}|RaktarProjekt\\RaktarProjekt.csproj|c:\\users\\katona andr\u00E1s\\desktop\\raktarprojekt\\raktarprojekt\\models\\ugyfel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01ABCAA6-A3F9-42EC-A01E-79168AE7C9AF}|RaktarProjekt\\RaktarProjekt.csproj|solutionrelative:raktarprojekt\\models\\ugyfel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01ABCAA6-A3F9-42EC-A01E-79168AE7C9AF}|RaktarProjekt\\RaktarProjekt.csproj|c:\\users\\katona andr\u00E1s\\desktop\\raktarprojekt\\raktarprojekt\\controllers\\tarolohelyisegcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01ABCAA6-A3F9-42EC-A01E-79168AE7C9AF}|RaktarProjekt\\RaktarProjekt.csproj|solutionrelative:raktarprojekt\\controllers\\tarolohelyisegcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01ABCAA6-A3F9-42EC-A01E-79168AE7C9AF}|RaktarProjekt\\RaktarProjekt.csproj|c:\\users\\katona andr\u00E1s\\desktop\\raktarprojekt\\raktarprojekt\\models\\tarolohelyiseg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01ABCAA6-A3F9-42EC-A01E-79168AE7C9AF}|RaktarProjekt\\RaktarProjekt.csproj|solutionrelative:raktarprojekt\\models\\tarolohelyiseg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01ABCAA6-A3F9-42EC-A01E-79168AE7C9AF}|RaktarProjekt\\RaktarProjekt.csproj|c:\\users\\katona andr\u00E1s\\desktop\\raktarprojekt\\raktarprojekt\\controllers\\berlescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01ABCAA6-A3F9-42EC-A01E-79168AE7C9AF}|RaktarProjekt\\RaktarProjekt.csproj|solutionrelative:raktarprojekt\\controllers\\berlescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01ABCAA6-A3F9-42EC-A01E-79168AE7C9AF}|RaktarProjekt\\RaktarProjekt.csproj|c:\\users\\katona andr\u00E1s\\desktop\\raktarprojekt\\raktarprojekt\\models\\berles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01ABCAA6-A3F9-42EC-A01E-79168AE7C9AF}|RaktarProjekt\\RaktarProjekt.csproj|solutionrelative:raktarprojekt\\models\\berles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01ABCAA6-A3F9-42EC-A01E-79168AE7C9AF}|RaktarProjekt\\RaktarProjekt.csproj|c:\\users\\katona andr\u00E1s\\desktop\\raktarprojekt\\raktarprojekt\\models\\arkategoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01ABCAA6-A3F9-42EC-A01E-79168AE7C9AF}|RaktarProjekt\\RaktarProjekt.csproj|solutionrelative:raktarprojekt\\models\\arkategoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01ABCAA6-A3F9-42EC-A01E-79168AE7C9AF}|RaktarProjekt\\RaktarProjekt.csproj|c:\\users\\katona andr\u00E1s\\desktop\\raktarprojekt\\raktarprojekt\\models\\megye.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01ABCAA6-A3F9-42EC-A01E-79168AE7C9AF}|RaktarProjekt\\RaktarProjekt.csproj|solutionrelative:raktarprojekt\\models\\megye.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01ABCAA6-A3F9-42EC-A01E-79168AE7C9AF}|RaktarProjekt\\RaktarProjekt.csproj|c:\\users\\katona andr\u00E1s\\desktop\\raktarprojekt\\raktarprojekt\\models\\raktar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01ABCAA6-A3F9-42EC-A01E-79168AE7C9AF}|RaktarProjekt\\RaktarProjekt.csproj|solutionrelative:raktarprojekt\\models\\raktar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01ABCAA6-A3F9-42EC-A01E-79168AE7C9AF}|RaktarProjekt\\RaktarProjekt.csproj|c:\\users\\katona andr\u00E1s\\desktop\\raktarprojekt\\raktarprojekt\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{01ABCAA6-A3F9-42EC-A01E-79168AE7C9AF}|RaktarProjekt\\RaktarProjekt.csproj|solutionrelative:raktarprojekt\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01ABCAA6-A3F9-42EC-A01E-79168AE7C9AF}|RaktarProjekt\\RaktarProjekt.csproj|c:\\users\\katona andr\u00E1s\\desktop\\raktarprojekt\\raktarprojekt\\controllers\\megyecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01ABCAA6-A3F9-42EC-A01E-79168AE7C9AF}|RaktarProjekt\\RaktarProjekt.csproj|solutionrelative:raktarprojekt\\controllers\\megyecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01ABCAA6-A3F9-42EC-A01E-79168AE7C9AF}|RaktarProjekt\\RaktarProjekt.csproj|c:\\users\\katona andr\u00E1s\\desktop\\raktarprojekt\\raktarprojekt\\controllers\\raktarcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01ABCAA6-A3F9-42EC-A01E-79168AE7C9AF}|RaktarProjekt\\RaktarProjekt.csproj|solutionrelative:raktarprojekt\\controllers\\raktarcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01ABCAA6-A3F9-42EC-A01E-79168AE7C9AF}|RaktarProjekt\\RaktarProjekt.csproj|c:\\users\\katona andr\u00E1s\\desktop\\raktarprojekt\\raktarprojekt\\controllers\\arkategoriacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01ABCAA6-A3F9-42EC-A01E-79168AE7C9AF}|RaktarProjekt\\RaktarProjekt.csproj|solutionrelative:raktarprojekt\\controllers\\arkategoriacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01ABCAA6-A3F9-42EC-A01E-79168AE7C9AF}|RaktarProjekt\\RaktarProjekt.csproj|c:\\users\\katona andr\u00E1s\\desktop\\raktarprojekt\\raktarprojekt\\raktarprojekt.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{01ABCAA6-A3F9-42EC-A01E-79168AE7C9AF}|RaktarProjekt\\RaktarProjekt.csproj|solutionrelative:raktarprojekt\\raktarprojekt.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Katona Andr\u00E1s\\Desktop\\RaktarProjekt\\RaktarProjekt\\Program.cs",
+              "RelativeDocumentMoniker": "RaktarProjekt\\Program.cs",
+              "ToolTip": "C:\\Users\\Katona Andr\u00E1s\\Desktop\\RaktarProjekt\\RaktarProjekt\\Program.cs",
+              "RelativeToolTip": "RaktarProjekt\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-08T19:50:18.88Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TaroloHelyiseg.cs",
+              "DocumentMoniker": "C:\\Users\\Katona Andr\u00E1s\\Desktop\\RaktarProjekt\\RaktarProjekt\\Models\\TaroloHelyiseg.cs",
+              "RelativeDocumentMoniker": "RaktarProjekt\\Models\\TaroloHelyiseg.cs",
+              "ToolTip": "C:\\Users\\Katona Andr\u00E1s\\Desktop\\RaktarProjekt\\RaktarProjekt\\Models\\TaroloHelyiseg.cs",
+              "RelativeToolTip": "RaktarProjekt\\Models\\TaroloHelyiseg.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAcwBYAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-08T19:28:09.793Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TaroloHelyisegController.cs",
+              "DocumentMoniker": "C:\\Users\\Katona Andr\u00E1s\\Desktop\\RaktarProjekt\\RaktarProjekt\\Controllers\\TaroloHelyisegController.cs",
+              "RelativeDocumentMoniker": "RaktarProjekt\\Controllers\\TaroloHelyisegController.cs",
+              "ToolTip": "C:\\Users\\Katona Andr\u00E1s\\Desktop\\RaktarProjekt\\RaktarProjekt\\Controllers\\TaroloHelyisegController.cs",
+              "RelativeToolTip": "RaktarProjekt\\Controllers\\TaroloHelyisegController.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAlwDgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-09T13:29:06.424Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RaktarContext.cs",
+              "DocumentMoniker": "C:\\Users\\Katona Andr\u00E1s\\Desktop\\RaktarProjekt\\RaktarProjekt\\Database\\RaktarContext.cs",
+              "RelativeDocumentMoniker": "RaktarProjekt\\Database\\RaktarContext.cs",
+              "ToolTip": "C:\\Users\\Katona Andr\u00E1s\\Desktop\\RaktarProjekt\\RaktarProjekt\\Database\\RaktarContext.cs",
+              "RelativeToolTip": "RaktarProjekt\\Database\\RaktarContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-08T19:21:00.174Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ArKategoria.cs",
+              "DocumentMoniker": "C:\\Users\\Katona Andr\u00E1s\\Desktop\\RaktarProjekt\\RaktarProjekt\\Models\\ArKategoria.cs",
+              "RelativeDocumentMoniker": "RaktarProjekt\\Models\\ArKategoria.cs",
+              "ToolTip": "C:\\Users\\Katona Andr\u00E1s\\Desktop\\RaktarProjekt\\RaktarProjekt\\Models\\ArKategoria.cs",
+              "RelativeToolTip": "RaktarProjekt\\Models\\ArKategoria.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-08T19:25:56.791Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Raktar.cs",
+              "DocumentMoniker": "C:\\Users\\Katona Andr\u00E1s\\Desktop\\RaktarProjekt\\RaktarProjekt\\Models\\Raktar.cs",
+              "RelativeDocumentMoniker": "RaktarProjekt\\Models\\Raktar.cs",
+              "ToolTip": "C:\\Users\\Katona Andr\u00E1s\\Desktop\\RaktarProjekt\\RaktarProjekt\\Models\\Raktar.cs",
+              "RelativeToolTip": "RaktarProjekt\\Models\\Raktar.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-08T19:27:38.463Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Ugyfel.cs",
+              "DocumentMoniker": "C:\\Users\\Katona Andr\u00E1s\\Desktop\\RaktarProjekt\\RaktarProjekt\\Models\\Ugyfel.cs",
+              "RelativeDocumentMoniker": "RaktarProjekt\\Models\\Ugyfel.cs",
+              "ToolTip": "C:\\Users\\Katona Andr\u00E1s\\Desktop\\RaktarProjekt\\RaktarProjekt\\Models\\Ugyfel.cs",
+              "RelativeToolTip": "RaktarProjekt\\Models\\Ugyfel.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAawCQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-08T19:28:37.171Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Megye.cs",
+              "DocumentMoniker": "C:\\Users\\Katona Andr\u00E1s\\Desktop\\RaktarProjekt\\RaktarProjekt\\Models\\Megye.cs",
+              "RelativeDocumentMoniker": "RaktarProjekt\\Models\\Megye.cs",
+              "ToolTip": "C:\\Users\\Katona Andr\u00E1s\\Desktop\\RaktarProjekt\\RaktarProjekt\\Models\\Megye.cs",
+              "RelativeToolTip": "RaktarProjekt\\Models\\Megye.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-08T19:26:55.49Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UgyfelController.cs",
+              "DocumentMoniker": "C:\\Users\\Katona Andr\u00E1s\\Desktop\\RaktarProjekt\\RaktarProjekt\\Controllers\\UgyfelController.cs",
+              "RelativeDocumentMoniker": "RaktarProjekt\\Controllers\\UgyfelController.cs",
+              "ToolTip": "C:\\Users\\Katona Andr\u00E1s\\Desktop\\RaktarProjekt\\RaktarProjekt\\Controllers\\UgyfelController.cs",
+              "RelativeToolTip": "RaktarProjekt\\Controllers\\UgyfelController.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAGEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-09T13:23:32.022Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Users\\Katona Andr\u00E1s\\Desktop\\RaktarProjekt\\RaktarProjekt\\wwwroot\\index.html",
+              "RelativeDocumentMoniker": "RaktarProjekt\\wwwroot\\index.html",
+              "ToolTip": "C:\\Users\\Katona Andr\u00E1s\\Desktop\\RaktarProjekt\\RaktarProjekt\\wwwroot\\index.html",
+              "RelativeToolTip": "RaktarProjekt\\wwwroot\\index.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAhwC8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2026-01-09T17:52:21.676Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "style.css",
+              "DocumentMoniker": "C:\\Users\\Katona Andr\u00E1s\\Desktop\\RaktarProjekt\\RaktarProjekt\\wwwroot\\style.css",
+              "RelativeDocumentMoniker": "RaktarProjekt\\wwwroot\\style.css",
+              "ToolTip": "C:\\Users\\Katona Andr\u00E1s\\Desktop\\RaktarProjekt\\RaktarProjekt\\wwwroot\\style.css",
+              "RelativeToolTip": "RaktarProjekt\\wwwroot\\style.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-01-09T18:09:15.467Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "script.js",
+              "DocumentMoniker": "C:\\Users\\Katona Andr\u00E1s\\Desktop\\RaktarProjekt\\RaktarProjekt\\wwwroot\\script.js",
+              "RelativeDocumentMoniker": "RaktarProjekt\\wwwroot\\script.js",
+              "ToolTip": "C:\\Users\\Katona Andr\u00E1s\\Desktop\\RaktarProjekt\\RaktarProjekt\\wwwroot\\script.js",
+              "RelativeToolTip": "RaktarProjekt\\wwwroot\\script.js",
+              "ViewState": "AgIAALEAAAAAAAAAAADgv3UBAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-01-09T18:09:55.488Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Berles.cs",
+              "DocumentMoniker": "C:\\Users\\Katona Andr\u00E1s\\Desktop\\RaktarProjekt\\RaktarProjekt\\Models\\Berles.cs",
+              "RelativeDocumentMoniker": "RaktarProjekt\\Models\\Berles.cs",
+              "ToolTip": "C:\\Users\\Katona Andr\u00E1s\\Desktop\\RaktarProjekt\\RaktarProjekt\\Models\\Berles.cs",
+              "RelativeToolTip": "RaktarProjekt\\Models\\Berles.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwCYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-08T19:28:58.689Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BerlesController.cs",
+              "DocumentMoniker": "C:\\Users\\Katona Andr\u00E1s\\Desktop\\RaktarProjekt\\RaktarProjekt\\Controllers\\BerlesController.cs",
+              "RelativeDocumentMoniker": "RaktarProjekt\\Controllers\\BerlesController.cs",
+              "ToolTip": "C:\\Users\\Katona Andr\u00E1s\\Desktop\\RaktarProjekt\\RaktarProjekt\\Controllers\\BerlesController.cs",
+              "RelativeToolTip": "RaktarProjekt\\Controllers\\BerlesController.cs",
+              "ViewState": "AgIAAFMAAAAAAAAAAAAQwGUAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-11T21:11:09.836Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Katona Andr\u00E1s\\Desktop\\RaktarProjekt\\RaktarProjekt\\appsettings.json",
+              "RelativeDocumentMoniker": "RaktarProjekt\\appsettings.json",
+              "ToolTip": "C:\\Users\\Katona Andr\u00E1s\\Desktop\\RaktarProjekt\\RaktarProjekt\\appsettings.json",
+              "RelativeToolTip": "RaktarProjekt\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAB+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-01-08T19:51:47.736Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "RaktarController.cs",
+              "DocumentMoniker": "C:\\Users\\Katona Andr\u00E1s\\Desktop\\RaktarProjekt\\RaktarProjekt\\Controllers\\RaktarController.cs",
+              "RelativeDocumentMoniker": "RaktarProjekt\\Controllers\\RaktarController.cs",
+              "ToolTip": "C:\\Users\\Katona Andr\u00E1s\\Desktop\\RaktarProjekt\\RaktarProjekt\\Controllers\\RaktarController.cs",
+              "RelativeToolTip": "RaktarProjekt\\Controllers\\RaktarController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-09T13:24:58.5Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "MegyeController.cs",
+              "DocumentMoniker": "C:\\Users\\Katona Andr\u00E1s\\Desktop\\RaktarProjekt\\RaktarProjekt\\Controllers\\MegyeController.cs",
+              "RelativeDocumentMoniker": "RaktarProjekt\\Controllers\\MegyeController.cs",
+              "ToolTip": "C:\\Users\\Katona Andr\u00E1s\\Desktop\\RaktarProjekt\\RaktarProjekt\\Controllers\\MegyeController.cs",
+              "RelativeToolTip": "RaktarProjekt\\Controllers\\MegyeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAF0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-09T13:26:16.852Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ArKategoriaController.cs",
+              "DocumentMoniker": "C:\\Users\\Katona Andr\u00E1s\\Desktop\\RaktarProjekt\\RaktarProjekt\\Controllers\\ArKategoriaController.cs",
+              "RelativeDocumentMoniker": "RaktarProjekt\\Controllers\\ArKategoriaController.cs",
+              "ToolTip": "C:\\Users\\Katona Andr\u00E1s\\Desktop\\RaktarProjekt\\RaktarProjekt\\Controllers\\ArKategoriaController.cs",
+              "RelativeToolTip": "RaktarProjekt\\Controllers\\ArKategoriaController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-08T19:44:35.673Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "RaktarProjekt.csproj",
+              "DocumentMoniker": "C:\\Users\\Katona Andr\u00E1s\\Desktop\\RaktarProjekt\\RaktarProjekt\\RaktarProjekt.csproj",
+              "RelativeDocumentMoniker": "RaktarProjekt\\RaktarProjekt.csproj",
+              "ToolTip": "C:\\Users\\Katona Andr\u00E1s\\Desktop\\RaktarProjekt\\RaktarProjekt\\RaktarProjekt.csproj",
+              "RelativeToolTip": "RaktarProjekt\\RaktarProjekt.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-01-09T17:51:54.895Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

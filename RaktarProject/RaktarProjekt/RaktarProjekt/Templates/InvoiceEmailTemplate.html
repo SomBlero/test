@@ -1,0 +1,313 @@
+<!doctype html>
+<html lang="hu">
+<head>
+    <meta charset="utf-8" />
+    <title>Számla</title>
+    <style>
+        body {
+            margin: 0;
+            padding: 24px;
+            background: #0d1117;
+            color: #c9d1d9;
+            font-family: "Segoe UI", Arial, sans-serif;
+        }
+        .container {
+            max-width: 740px;
+            margin: 0 auto;
+            border-radius: 14px;
+            overflow: hidden;
+            border: 1px solid rgba(255,255,255,0.08);
+            background: rgba(13,17,23,0.95);
+        }
+        .header {
+            background: linear-gradient(120deg, #0f172a 0%, #1e3a5f 50%, #1d4ed8 100%);
+            padding: 28px 32px;
+        }
+        .header-top {
+            display: flex;
+            justify-content: space-between;
+            align-items: flex-start;
+        }
+        .brand { margin: 0; font-size: 22px; font-weight: 700; color: #fff; }
+        .brand-sub { margin: 4px 0 0; font-size: 13px; color: rgba(255,255,255,0.75); }
+        .invoice-badge {
+            background: rgba(255,255,255,0.15);
+            border: 1px solid rgba(255,255,255,0.3);
+            color: #fff;
+            padding: 6px 14px;
+            border-radius: 20px;
+            font-size: 12px;
+            font-weight: 700;
+            letter-spacing: 0.5px;
+        }
+        .paid-stamp {
+            display: inline-block;
+            margin-top: 14px;
+            border: 2px solid #4ade80;
+            color: #4ade80;
+            padding: 4px 14px;
+            border-radius: 6px;
+            font-size: 13px;
+            font-weight: 700;
+            letter-spacing: 1px;
+            text-transform: uppercase;
+        }
+        .body { padding: 28px 32px; }
+        .section-title {
+            font-size: 11px;
+            text-transform: uppercase;
+            letter-spacing: 0.8px;
+            color: #6b7280;
+            margin: 0 0 10px;
+            border-bottom: 1px solid rgba(255,255,255,0.06);
+            padding-bottom: 6px;
+        }
+        .info-grid {
+            display: table;
+            width: 100%;
+            margin-bottom: 22px;
+        }
+        .info-row { display: table-row; }
+        .info-label {
+            display: table-cell;
+            width: 38%;
+            padding: 5px 0;
+            color: #9ca3af;
+            font-size: 13px;
+        }
+        .info-value {
+            display: table-cell;
+            padding: 5px 0;
+            color: #e5e7eb;
+            font-size: 13px;
+            font-weight: 600;
+        }
+        .two-col {
+            display: table;
+            width: 100%;
+            margin-bottom: 22px;
+        }
+        .col-left, .col-right {
+            display: table-cell;
+            width: 50%;
+            vertical-align: top;
+            padding-right: 16px;
+        }
+        .col-right { padding-right: 0; padding-left: 16px; }
+        .service-table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-bottom: 10px;
+        }
+        .table-wrapper {
+            width: 100%;
+            overflow-x: auto;
+            -webkit-overflow-scrolling: touch;
+        }
+        .service-table th {
+            background: #161b22;
+            color: #94a3b8;
+            font-size: 11px;
+            text-transform: uppercase;
+            letter-spacing: 0.5px;
+            padding: 8px 10px;
+            text-align: left;
+            border: 1px solid rgba(255,255,255,0.06);
+        }
+        .service-table td {
+            padding: 10px;
+            color: #e5e7eb;
+            font-size: 13px;
+            border: 1px solid rgba(255,255,255,0.06);
+        }
+        .service-table tr:nth-child(even) td { background: #0d1117; }
+        .total-row td {
+            background: rgba(29,78,216,0.12) !important;
+            font-weight: 700;
+            font-size: 14px;
+            color: #93c5fd;
+        }
+        .payment-box {
+            background: rgba(22,163,74,0.08);
+            border: 1px solid rgba(22,163,74,0.25);
+            border-radius: 8px;
+            padding: 12px 16px;
+            margin-bottom: 22px;
+        }
+        .payment-title { color: #86efac; font-size: 12px; font-weight: 700; margin: 0 0 8px; text-transform: uppercase; letter-spacing: 0.5px; }
+        .payment-line { color: #d1fae5; font-size: 13px; margin: 3px 0; }
+        .footer {
+            border-top: 1px solid rgba(255,255,255,0.06);
+            padding: 14px 32px 20px;
+            color: #6b7280;
+            font-size: 11px;
+            line-height: 1.6;
+        }
+        @media (max-width: 640px) {
+            body { padding: 10px; }
+            .header, .body, .footer { padding-left: 14px; padding-right: 14px; }
+            .header-top { display: block; }
+            .invoice-badge { display: inline-block; margin-top: 10px; }
+            .two-col, .info-grid, .info-row, .info-label, .info-value {
+                display: block;
+                width: 100%;
+            }
+            .col-left, .col-right {
+                display: block;
+                width: 100%;
+                padding: 0;
+            }
+            .col-right { margin-top: 16px; }
+            .info-label { padding-bottom: 0; }
+            .info-value { padding-top: 2px; padding-bottom: 8px; }
+
+            
+            .table-wrapper { overflow: visible; }
+            .service-table,
+            .service-table thead,
+            .service-table tbody,
+            .service-table tr,
+            .service-table th,
+            .service-table td {
+                display: block;
+                width: 100%;
+            }
+            .service-table thead {
+                position: absolute;
+                width: 1px;
+                height: 1px;
+                overflow: hidden;
+                clip: rect(0 0 0 0);
+                white-space: nowrap;
+            }
+            .service-table tr {
+                border: 1px solid rgba(255,255,255,0.08);
+                border-radius: 10px;
+                margin-bottom: 10px;
+                overflow: hidden;
+            }
+            .service-table td {
+                border: 0;
+                border-bottom: 1px solid rgba(255,255,255,0.08);
+                padding: 10px;
+                text-align: left;
+            }
+            .service-table td:last-child { border-bottom: 0; }
+            .service-table td::before {
+                content: attr(data-label);
+                display: block;
+                margin-bottom: 5px;
+                color: #94a3b8;
+                font-size: 11px;
+                text-transform: uppercase;
+                letter-spacing: 0.5px;
+            }
+            .total-row td {
+                background: rgba(29,78,216,0.12) !important;
+            }
+        }
+    </style>
+</head>
+<body>
+<div class="container">
+    <div class="header">
+        <div class="header-top">
+            <div>
+                <h1 class="brand">RaktarBerles - ABI Inc.</h1>
+                <p class="brand-sub">Bérletiszolgáltatás | Számla</p>
+            </div>
+            <span class="invoice-badge">SZÁMLA #{{SZAMLA_SZAM}}</span>
+        </div>
+        <div>
+            <span class="paid-stamp">&#10003; Kifizetve</span>
+        </div>
+    </div>
+
+    <div class="body">
+        <div class="two-col">
+            <div class="col-left">
+                <p class="section-title">Vevői adatok</p>
+                <div class="info-grid">
+                    <div class="info-row">
+                        <span class="info-label">Név:</span>
+                        <span class="info-value">{{CIMZETT_NEV}}</span>
+                    </div>
+                    <div class="info-row">
+                        <span class="info-label">E-mail:</span>
+                        <span class="info-value">{{CIMZETT_EMAIL}}</span>
+                    </div>
+                    <div class="info-row">
+                        <span class="info-label">Telefon:</span>
+                        <span class="info-value">{{CIMZETT_TELEFON}}</span>
+                    </div>
+                </div>
+
+                <p class="section-title">Számlázási cím</p>
+                <div class="info-grid">
+                    <div class="info-row">
+                        <span class="info-label">Cím:</span>
+                        <span class="info-value">{{SZAMLAZASI_CIM}}</span>
+                    </div>
+                </div>
+            </div>
+            <div class="col-right">
+                <p class="section-title">Számla adatai</p>
+                <div class="info-grid">
+                    <div class="info-row">
+                        <span class="info-label">Számlaszám:</span>
+                        <span class="info-value">{{SZAMLA_SZAM}}</span>
+                    </div>
+                    <div class="info-row">
+                        <span class="info-label">Kiállítás dátuma:</span>
+                        <span class="info-value">{{KIALLITAS_DATUM}}</span>
+                    </div>
+                    <div class="info-row">
+                        <span class="info-label">Foglalás azonosító:</span>
+                        <span class="info-value">#{{FOGLALAS_AZON}}</span>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <p class="section-title">Számlázott szolgáltatások</p>
+        <div class="table-wrapper">
+        <table class="service-table">
+            <thead>
+                <tr>
+                    <th>Leírás</th>
+                    <th>Telephely</th>
+                    <th>Időszak</th>
+                    <th>Összeg</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td data-label="Leírás">Tároló bérlés - {{TAROLO}}</td>
+                    <td data-label="Telephely">{{TELEPHELY}}</td>
+                    <td data-label="Időszak">{{METTOL_MEDDIG}}</td>
+                    <td data-label="Összeg">{{AR}}</td>
+                </tr>
+                <tr class="total-row">
+                    <td colspan="3" data-label="Összesen" style="text-align:right;">Fizetendő összeg:</td>
+                    <td data-label="Fizetendő összeg">{{AR}}</td>
+                </tr>
+            </tbody>
+        </table>
+        </div>
+
+        <div class="payment-box">
+            <p class="payment-title">&#10003; Sikeres bankkártyás fizetés</p>
+            <p class="payment-line">Fizetés módja: Bankkártya ({{KARTYA_UTOLSO4}})</p>
+            <p class="payment-line">Tranzakció dátuma: {{KIALLITAS_DATUM}}</p>
+            <p class="payment-line">Állapot: Sikeres</p>
+        </div>
+    </div>
+
+    <div class="footer">
+        Ez egy automatikusan generált számla. ABI Inc. - Minden jog fenntartva.<br/>
+        Iskolai béta verzió - valódi pénzmozgás nem történt.
+    </div>
+</div>
+</body>
+</html>
+

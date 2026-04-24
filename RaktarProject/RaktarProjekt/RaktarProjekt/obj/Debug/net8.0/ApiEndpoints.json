@@ -1,0 +1,1028 @@
+[
+  {
+    "ContainingType": "RaktarProjekt.Controllers.ArKategoriaController",
+    "Method": "GetArKategoriak",
+    "RelativePath": "api/ArKategoria",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[RaktarProjekt.Models.ArKategoria, RaktarProjekt, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "RaktarProjekt.Controllers.ArKategoriaController",
+    "Method": "PostArKategoria",
+    "RelativePath": "api/ArKategoria",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "ujKategoria",
+        "Type": "RaktarProjekt.Models.ArKategoria",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "RaktarProjekt.Models.ArKategoria",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "RaktarProjekt.Controllers.ArKategoriaController",
+    "Method": "GetArKategoria",
+    "RelativePath": "api/ArKategoria/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "RaktarProjekt.Models.ArKategoria",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "RaktarProjekt.Controllers.ArKategoriaController",
+    "Method": "PutArKategoria",
+    "RelativePath": "api/ArKategoria/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "modositottKategoria",
+        "Type": "RaktarProjekt.Models.ArKategoria",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RaktarProjekt.Controllers.ArKategoriaController",
+    "Method": "DeleteArKategoria",
+    "RelativePath": "api/ArKategoria/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RaktarProjekt.Controllers.BerlesController",
+    "Method": "GetBerlesek",
+    "RelativePath": "api/Berles",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[System.Object, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "RaktarProjekt.Controllers.BerlesController",
+    "Method": "PostBerles",
+    "RelativePath": "api/Berles",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "berles",
+        "Type": "RaktarProjekt.Models.Berles",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RaktarProjekt.Controllers.BerlesController",
+    "Method": "DeleteBerles",
+    "RelativePath": "api/Berles/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RaktarProjekt.Controllers.BerlesController",
+    "Method": "LezarBerles",
+    "RelativePath": "api/Berles/{id}/lezaras",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RaktarProjekt.Controllers.BerlesController",
+    "Method": "AdminPostBerles",
+    "RelativePath": "api/Berles/admin",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "berles",
+        "Type": "RaktarProjekt.Models.Berles",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RaktarProjekt.Controllers.BerlesController",
+    "Method": "AdminDeleteBerles",
+    "RelativePath": "api/Berles/admin/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RaktarProjekt.Controllers.BerlesController",
+    "Method": "GetTaroloElerhetoseg",
+    "RelativePath": "api/Berles/elerhetoseg",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "kezdo_datum",
+        "Type": "System.DateTime",
+        "IsRequired": false
+      },
+      {
+        "Name": "veg_datum",
+        "Type": "System.DateTime",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RaktarProjekt.Controllers.BerlesController",
+    "Method": "PostFizetes",
+    "RelativePath": "api/Berles/fizetes",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "RaktarProjekt.Controllers.FizetesRequestDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RaktarProjekt.Controllers.BerlesController",
+    "Method": "GetBerlesIdointervallumok",
+    "RelativePath": "api/Berles/idointervallumok",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[System.Object, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "RaktarProjekt.Controllers.BerlesController",
+    "Method": "GetSajatBerlesek",
+    "RelativePath": "api/Berles/sajat",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[System.Object, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "RaktarProjekt.Controllers.MegyeController",
+    "Method": "GetMegyek",
+    "RelativePath": "api/Megye",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[RaktarProjekt.Controllers.MegyeDto, RaktarProjekt, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "RaktarProjekt.Controllers.MegyeController",
+    "Method": "PostMegye",
+    "RelativePath": "api/Megye",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "megyeDto",
+        "Type": "RaktarProjekt.Controllers.MegyeDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "RaktarProjekt.Controllers.MegyeDto",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "RaktarProjekt.Controllers.MegyeController",
+    "Method": "GetMegye",
+    "RelativePath": "api/Megye/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "RaktarProjekt.Controllers.MegyeDto",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "RaktarProjekt.Controllers.MegyeController",
+    "Method": "DeleteMegye",
+    "RelativePath": "api/Megye/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RaktarProjekt.Controllers.NyitoKodController",
+    "Method": "EllenorzesQuery",
+    "RelativePath": "api/Nyitas/ellenorzes",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "tarolo",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "kod",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RaktarProjekt.Controllers.NyitoKodController",
+    "Method": "NyitasIgenyles",
+    "RelativePath": "api/Nyitas/igenyles",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "kerelem",
+        "Type": "RaktarProjekt.Controllers.NyitoKodKerelemDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RaktarProjekt.Controllers.NyitoKodController",
+    "Method": "PostNyitoKod",
+    "RelativePath": "api/NyitoKod",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "kerelem",
+        "Type": "RaktarProjekt.Controllers.NyitoKodKerelemDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RaktarProjekt.Controllers.NyitoKodController",
+    "Method": "DeleteNyitoKod",
+    "RelativePath": "api/NyitoKod/{taroloId}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "taroloId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RaktarProjekt.Controllers.NyitoKodController",
+    "Method": "GetAktivNyitoKodok",
+    "RelativePath": "api/NyitoKod/aktiv",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[System.Object, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "RaktarProjekt.Controllers.RaktarController",
+    "Method": "GetRaktarak",
+    "RelativePath": "api/Raktar",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[RaktarProjekt.Controllers.RaktarDto, RaktarProjekt, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "RaktarProjekt.Controllers.RaktarController",
+    "Method": "PostRaktar",
+    "RelativePath": "api/Raktar",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "raktarDto",
+        "Type": "RaktarProjekt.Controllers.RaktarDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "RaktarProjekt.Controllers.RaktarDto",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "RaktarProjekt.Controllers.RaktarController",
+    "Method": "GetRaktar",
+    "RelativePath": "api/Raktar/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "RaktarProjekt.Controllers.RaktarDto",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "RaktarProjekt.Controllers.RaktarController",
+    "Method": "PutRaktar",
+    "RelativePath": "api/Raktar/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "raktarDto",
+        "Type": "RaktarProjekt.Controllers.RaktarDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RaktarProjekt.Controllers.RaktarController",
+    "Method": "DeleteRaktar",
+    "RelativePath": "api/Raktar/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RaktarProjekt.Controllers.TaroloHelyisegController",
+    "Method": "GetTarolok",
+    "RelativePath": "api/TaroloHelyiseg",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[System.Object, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "RaktarProjekt.Controllers.TaroloHelyisegController",
+    "Method": "PostTarolo",
+    "RelativePath": "api/TaroloHelyiseg",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "RaktarProjekt.Controllers.TaroloHelyisegDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "RaktarProjekt.Controllers.TaroloHelyisegDto",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "RaktarProjekt.Controllers.TaroloHelyisegController",
+    "Method": "GetTarolo",
+    "RelativePath": "api/TaroloHelyiseg/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "RaktarProjekt.Controllers.TaroloHelyisegDto",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "RaktarProjekt.Controllers.TaroloHelyisegController",
+    "Method": "PutTarolo",
+    "RelativePath": "api/TaroloHelyiseg/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "dto",
+        "Type": "RaktarProjekt.Controllers.TaroloHelyisegDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RaktarProjekt.Controllers.TaroloHelyisegController",
+    "Method": "DeleteTarolo",
+    "RelativePath": "api/TaroloHelyiseg/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RaktarProjekt.Controllers.TaroloHelyisegController",
+    "Method": "SetKarbantartas",
+    "RelativePath": "api/TaroloHelyiseg/{id}/karbantartas",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "dto",
+        "Type": "RaktarProjekt.Controllers.KarbantartasDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RaktarProjekt.Controllers.TaroloHelyisegController",
+    "Method": "GetTarolokReszletes",
+    "RelativePath": "api/TaroloHelyiseg/admin/reszletes",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[System.Object, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "RaktarProjekt.Controllers.UgyfelController",
+    "Method": "GetUgyfelek",
+    "RelativePath": "api/Ugyfel",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[RaktarProjekt.Controllers.UgyfelDto, RaktarProjekt, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "RaktarProjekt.Controllers.UgyfelController",
+    "Method": "PostUgyfel",
+    "RelativePath": "api/Ugyfel",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "RaktarProjekt.Controllers.RegisterRequestDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "RaktarProjekt.Controllers.UgyfelDto",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "RaktarProjekt.Controllers.UgyfelController",
+    "Method": "GetUgyfel",
+    "RelativePath": "api/Ugyfel/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "RaktarProjekt.Controllers.UgyfelDto",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "RaktarProjekt.Controllers.UgyfelController",
+    "Method": "DeleteUgyfel",
+    "RelativePath": "api/Ugyfel/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RaktarProjekt.Controllers.UgyfelController",
+    "Method": "UpdateErtesitesek",
+    "RelativePath": "api/Ugyfel/{id}/ertesitesek",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "dto",
+        "Type": "RaktarProjekt.Controllers.UgyfelController\u002BErtesitesekDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RaktarProjekt.Controllers.UgyfelController",
+    "Method": "UpdateJelszo",
+    "RelativePath": "api/Ugyfel/{id}/jelszo",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "dto",
+        "Type": "RaktarProjekt.Controllers.UgyfelController\u002BJelszoValtoztatDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RaktarProjekt.Controllers.UgyfelController",
+    "Method": "UpdateProfil",
+    "RelativePath": "api/Ugyfel/{id}/profil",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "dto",
+        "Type": "RaktarProjekt.Controllers.UgyfelController\u002BProfilUpdateDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RaktarProjekt.Controllers.UgyfelController",
+    "Method": "UpdateRole",
+    "RelativePath": "api/Ugyfel/{id}/role",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "dto",
+        "Type": "RaktarProjekt.Controllers.UgyfelController\u002BRoleUpdateDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RaktarProjekt.Controllers.UgyfelController",
+    "Method": "DeleteOwnAccount",
+    "RelativePath": "api/Ugyfel/{id}/torles",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "dto",
+        "Type": "RaktarProjekt.Controllers.UgyfelController\u002BDeleteAccountDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RaktarProjekt.Controllers.UgyfelController",
+    "Method": "AdminCheck",
+    "RelativePath": "api/Ugyfel/admin-check",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RaktarProjekt.Controllers.UgyfelController",
+    "Method": "RequestPasswordReset",
+    "RelativePath": "api/Ugyfel/jelszo-visszaallitas/keres",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "RaktarProjekt.Controllers.UgyfelController\u002BPasswordResetRequestDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RaktarProjekt.Controllers.UgyfelController",
+    "Method": "ConfirmPasswordReset",
+    "RelativePath": "api/Ugyfel/jelszo-visszaallitas/megerosites",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "RaktarProjekt.Controllers.UgyfelController\u002BPasswordResetConfirmDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RaktarProjekt.Controllers.UgyfelController",
+    "Method": "Login",
+    "RelativePath": "api/Ugyfel/login",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "RaktarProjekt.Controllers.UgyfelController\u002BLoginRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RaktarProjekt.Controllers.UgyfelController",
+    "Method": "ConfirmEmail",
+    "RelativePath": "api/Ugyfel/megerosites",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "RaktarProjekt.Controllers.UgyfelController\u002BEmailMegerositesDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RaktarProjekt.Controllers.UgyfelController",
+    "Method": "ConfirmEmailByLink",
+    "RelativePath": "api/Ugyfel/megerosites/link",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "email",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "token",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RaktarProjekt.Controllers.UgyfelController",
+    "Method": "ResendActivationCode",
+    "RelativePath": "api/Ugyfel/megerosites/ujrakuldes",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "RaktarProjekt.Controllers.UgyfelController\u002BUjrakuldesDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
